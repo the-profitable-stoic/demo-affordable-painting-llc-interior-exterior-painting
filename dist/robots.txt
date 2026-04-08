@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-affordable-painting-llc-interior-exterior-painting-in-indianapolis-in-general-painting-in-indianapolis-in.dream-surge.com/sitemap-index.xml
